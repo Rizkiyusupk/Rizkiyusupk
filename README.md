@@ -12,4 +12,4 @@ I'm passionate about:
 ---
 
 🌱 Currently learning: Docker, K8s, CI/CD  
-📫 Reach me at: rizkiyk61@gmail.com  
+📫 Reach me at: rizkiyusupk@gmail.com  
