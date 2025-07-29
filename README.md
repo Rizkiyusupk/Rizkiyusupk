@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi, I’m Rizki
 
-<!--
-**Rizkiyusupk/Rizkiyusupk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about:
+- 🖥️ Linux system administration
+- ⚙️ Automating tasks using Bash & Ansible
+- ☁️ Cloud infrastructure & Kubernetes
 
-Here are some ideas to get you started:
+### 🚀 Projects I'm proud of:
+- `Script-Linux`: My custom Bash scripts for everyday sysadmin tasks
+- `automation_add_user_using_csv.sh`: Bulk user creation from CSV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌱 Currently learning: Docker, K8s, CI/CD  
+📫 Reach me at: rizkiyk61@gmail.com  
