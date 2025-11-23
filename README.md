@@ -12,7 +12,7 @@ Halo! Saya Rizki, mahasiswa yang sedang menekuni bidang **System Administration*
 
 ## 🏆 Sertifikasi & Prestasi
 
-- 🎓 **Red Hat Certified System Administrator** (RH124 (VER3.0,VER3.9) & RH104)
+- 🎓 **Red Hat Certified System Administrator** (RH124 (VER9.0,VER9.3) & RH104)
 - 🐳 **Certified Docker Practitioner**
 - ⚙️ **Certified Ansible Automation**
 - 🛠️ **Certified GitLab for DevOps**
