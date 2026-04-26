@@ -1,6 +1,6 @@
 # 👨‍💻 Rizki Yusup Kurniawan
 
-**Aspiring Linux System Administrator** | 💻 DevOps Enthusiast | 🌐 Network Automation Lover
+**Aspiring Linux System Administrator** | 💻 DevOps Enthusiast | ⚙️ Infrastructure | ☁️ Cloud
 
 ---
 
@@ -42,10 +42,10 @@ Halo! Saya Rizki, mahasiswa yang sedang menekuni bidang **System Administration*
 Di dalam repository ini kamu akan menemukan berbagai script automation yang saya buat, mulai dari:
 - 👤 Otomasi Manajemen User
 - 📦 Setup dan Deployment Web Server
-- 🔄 CI/CD Workflow sederhana
+- 🔄 CI/CD 
 - 🐧 Linux Automation
 - ⚙️ System Automation
-- 🏗️ Buil Infrastructure
+- 🏗️ Build Infrastructure
 - 👨‍💻 Monitoring Log And Data
 - ♾️CI/CD Collaboration Between Tools
 - 💻Configuration And Setup Multi Platform
