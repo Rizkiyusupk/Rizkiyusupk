@@ -68,7 +68,7 @@ Bash, Shell Scripting
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rizkiyusupk&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rizkiyusupk&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rizkiyusupk&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F46800&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </p>
 
