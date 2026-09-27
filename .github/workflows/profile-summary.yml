@@ -14,8 +14,8 @@ jobs:
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          user: Rizkiyusupk
-          theme: github_dark
+          USERNAME: Rizkiyusupk
+          THEME: github_dark
           template: classic
