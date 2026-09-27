@@ -69,11 +69,14 @@ Bash, Shell Scripting
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rizkiyusupk&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rizkiyusupk&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F46800&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizkiyusupk&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizkiyusupk&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F46800" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rizkiyusupk&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
