@@ -68,20 +68,19 @@ Bash, Shell Scripting
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rizkiyusupk&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/Rizkiyusupk/Rizkiyusupk/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizkiyusupk&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F46800" alt="Activity Graph"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Rizkiyusupk/Rizkiyusupk/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Rizkiyusupk/Rizkiyusupk/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rizkiyusupk&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Rizkiyusupk/Rizkiyusupk/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats"/>
+  <img width="49%" src="https://raw.githubusercontent.com/Rizkiyusupk/Rizkiyusupk/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rizkiyusupk&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
-</p>
 
 ---
 
